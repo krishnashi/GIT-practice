@@ -1,2 +1,2 @@
-def greet():
-    return "Hello shivakrishna1"
+def greetings():
+    return "Hello shiva hii"
